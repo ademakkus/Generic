@@ -1,0 +1,5 @@
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\ForEach\bin\Debug\ForEach.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\ForEach\bin\Debug\ForEach.exe
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\ForEach\bin\Debug\ForEach.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\ForEach\obj\Debug\ForEach.exe
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\ForEach\obj\Debug\ForEach.pdb
