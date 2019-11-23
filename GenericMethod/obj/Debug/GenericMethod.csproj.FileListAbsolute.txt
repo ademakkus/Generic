@@ -1,0 +1,5 @@
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericMethod\bin\Debug\GenericMethod.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericMethod\bin\Debug\GenericMethod.exe
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericMethod\bin\Debug\GenericMethod.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericMethod\obj\Debug\GenericMethod.exe
+D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericMethod\obj\Debug\GenericMethod.pdb
