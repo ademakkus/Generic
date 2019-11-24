@@ -3,4 +3,3 @@ D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericClass\bin\Debug\GenericClass.exe
 D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericClass\bin\Debug\GenericClass.pdb
 D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericClass\obj\Debug\GenericClass.exe
 D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericClass\obj\Debug\GenericClass.pdb
-D:\AdemAKKUS\Uygulamalar\Hafta8\Generic\GenericClass\obj\Debug\GenericClass.csprojResolveAssemblyReference.cache
